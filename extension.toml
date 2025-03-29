@@ -1,0 +1,7 @@
+id = "alabaster-dark"
+name = "Alabaster Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["Liffindra Angga Zaaldian <lzaaldian@gmail.com>"]
+description = "Dark version of Alabaster theme"
+repository = "https://github.com/findrakecil/alabaster-dark-zed-theme"
