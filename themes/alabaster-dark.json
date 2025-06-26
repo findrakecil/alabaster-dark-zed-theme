@@ -116,7 +116,7 @@
         "hidden": null,
         "hidden.background": null,
         "hidden.border": null,
-        "hint": null,
+        "hint": "#cecece7f",
         "hint.background": null,
         "hint.border": null,
         "ignored": null,
