@@ -1,6 +1,6 @@
 id = "alabaster-dark"
 name = "Alabaster Dark"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Liffindra Angga Zaaldian <lzaaldian@gmail.com>"]
 description = "Dark version of Alabaster theme"
