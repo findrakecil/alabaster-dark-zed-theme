@@ -99,6 +99,8 @@
         "version_control.added": null,
         "version_control.modified": null,
         "version_control.deleted": null,
+        "version_control.conflict_marker.ours": null,
+        "version_control.conflict_marker.theirs": null,
         "conflict": null,
         "conflict.background": null,
         "conflict.border": null,
@@ -229,6 +231,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "namespace": {
+            "color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "number": {
             "color": "#cc8bc9ff",
             "font_style": null,
@@ -280,6 +287,16 @@
             "font_weight": null
           },
           "punctuation.special": {
+            "color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "selector": {
+            "color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "selector.pseudo": {
             "color": null,
             "font_style": null,
             "font_weight": null
