@@ -119,7 +119,7 @@
         "hint": "#cecece7f",
         "hint.background": null,
         "hint.border": null,
-        "ignored": null,
+        "ignored": "#708b8dff",
         "ignored.background": null,
         "ignored.border": null,
         "info": null,
