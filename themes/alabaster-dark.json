@@ -111,7 +111,7 @@
         "deleted.background": null,
         "deleted.border": null,
         "error": "#e25d56ff",
-        "error.background": "#e25d56ff",
+        "error.background": "#0e1415ff",
         "error.border": "#e25d56ff",
         "hidden": null,
         "hidden.background": null,
