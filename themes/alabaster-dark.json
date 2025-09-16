@@ -31,7 +31,7 @@
         "text.muted": null,
         "text.placeholder": null,
         "text.disabled": null,
-        "text.accent": null,
+        "text.accent": "#71ade7ff",
         "icon": "#cececeff",
         "icon.muted": null,
         "icon.disabled": null,
