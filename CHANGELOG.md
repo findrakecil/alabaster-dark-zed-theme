@@ -1,3 +1,23 @@
+## [1.0.0] - 2025-09-17
+
+### 🚀 Features
+
+- Make hint easier to read
+- Fill accent color with Alabaster signature blue color
+- Make toolbar color same with active tab color
+
+### 🐛 Bug Fixes
+
+- Selection background color
+- Minimap area color
+- Selected or focused option background color
+- Documentation pop up background color
+
+### ⚙️ Miscellaneous Tasks
+
+- Make background color identical with selection
+- Remove unused attributes
+
 ## [0.0.5] - 2025-08-26
 
 ### 🐛 Bug Fixes
@@ -7,7 +27,7 @@
 ### ⚙️ Miscellaneous Tasks
 
 - Bump version to 0.0.5
-
+- Add changelog v0.0.5
 ## [0.0.4] - 2025-08-23
 
 ### 🚀 Features
@@ -26,7 +46,6 @@
 ### ⚙️ Miscellaneous Tasks
 
 - Add changelog v0.0.4
-
 ## [0.0.3] - 2025-06-26
 
 ### 🐛 Bug Fixes
