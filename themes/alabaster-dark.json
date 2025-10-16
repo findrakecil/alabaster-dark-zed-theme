@@ -141,8 +141,8 @@
         "players": [
           {
             "cursor": "#cececeff",
-            "background": "#ddf0ff0d",
-            "selection": "#ddf0ff0d"
+            "background": "#cececeff",
+            "selection": "#cecece1a"
           }
         ],
         "syntax": {
