@@ -1,3 +1,12 @@
+## [1.0.1] - 2025-10-16
+
+### 🐛 Bug Fixes
+
+- Selection background color barely visible
+- Minimap view area indicator is barely visible
+- Selection area color not highlighted when hovered
+- Active line highliht is barely visible
+
 ## [1.0.0] - 2025-09-17
 
 ### 🚀 Features
@@ -17,6 +26,7 @@
 
 - Make background color identical with selection
 - Remove unused attributes
+- Bump version to 1.0.0
 
 ## [0.0.5] - 2025-08-26
 
@@ -28,6 +38,7 @@
 
 - Bump version to 0.0.5
 - Add changelog v0.0.5
+
 ## [0.0.4] - 2025-08-23
 
 ### 🚀 Features
@@ -46,6 +57,7 @@
 ### ⚙️ Miscellaneous Tasks
 
 - Add changelog v0.0.4
+
 ## [0.0.3] - 2025-06-26
 
 ### 🐛 Bug Fixes
