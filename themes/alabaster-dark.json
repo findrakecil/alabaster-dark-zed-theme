@@ -48,6 +48,9 @@
           "constant": {
             "color": "#cc8bc9ff"
           },
+          "constructor": {
+            "color": "#71ade7ff"
+          },
           "function": {
             "color": "#71ade7ff"
           },
