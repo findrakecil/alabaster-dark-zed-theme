@@ -51,6 +51,9 @@
           "function": {
             "color": "#71ade7ff"
           },
+          "operator": {
+            "color": "#708b8dff"
+          },
           "number": {
             "color": "#cc8bc9ff"
           },
