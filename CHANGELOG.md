@@ -1,3 +1,27 @@
+## [2.0.0] - 2025-12-15
+
+### 🚀 Features
+
+- Operator color
+- Add color for constructor
+- Mimic UI from Sublime Text
+
+### 🐛 Bug Fixes
+
+- Color contrast in panel and pop-ups
+- Define method color
+- Bracket pair color and same word occurences highlight color
+
+### 🚜 Refactor
+
+- Set value to null is the same as using the default
+- Sort attributes by name a-z
+
+### ⚙️ Miscellaneous Tasks
+
+- Put operator syntax color in order
+- Update screenshot
+
 ## [1.0.1] - 2025-10-16
 
 ### 🐛 Bug Fixes
@@ -6,6 +30,10 @@
 - Minimap view area indicator is barely visible
 - Selection area color not highlighted when hovered
 - Active line highliht is barely visible
+
+### ⚙️ Miscellaneous Tasks
+
+- Bump version to 1.0.1
 
 ## [1.0.0] - 2025-09-17
 
