@@ -13,6 +13,7 @@
         "deleted": "#d2322dff",
         "editor.active_line.background": "#ffffff10",
         "editor.background": "#0e1415ff",
+        "editor.document_highlight.read_background": "#293334ff",
         "editor.foreground": "#cececeff",
         "editor.gutter.background": "#0e1415ff",
         "element.hover": "#575b5cff",
