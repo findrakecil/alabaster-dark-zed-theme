@@ -57,9 +57,6 @@
           "function": {
             "color": "#71ade7ff"
           },
-          "function.method": {
-            "color": "#cececeff"
-          },
           "number": {
             "color": "#cc8bc9ff"
           },
