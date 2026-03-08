@@ -1,3 +1,13 @@
+## [2.0.1] - 2026-03-08
+
+### 🚀 Features
+
+- Use colors from Theme Builder
+
+### ⚙️ Miscellaneous Tasks
+
+- Use 4 spaces indentation
+
 ## [2.0.0] - 2025-12-15
 
 ### 🚀 Features
@@ -21,6 +31,7 @@
 
 - Put operator syntax color in order
 - Update screenshot
+- Bump version to 2.0.0
 
 ## [1.0.1] - 2025-10-16
 
