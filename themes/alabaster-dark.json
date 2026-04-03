@@ -36,7 +36,7 @@
                 "editor.invisible": "#708B8DFF",
                 "editor.line_number": "#777777FF",
                 "editor.subheader.background": "#323738FF",
-                "editor.wrap_guide": "#FFFFFF00",
+                "editor.wrap_guide": "#323738FF",
                 "element.active": "#24292AFF",
                 "element.background": "#24292AFF",
                 "element.disabled": "#24292AFF",
