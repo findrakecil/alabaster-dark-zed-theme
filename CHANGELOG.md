@@ -1,3 +1,9 @@
+## [2.0.2] - 2026-04-03
+
+### 🐛 Bug Fixes
+
+- Wrap guides not showed
+- 
 ## [2.0.1] - 2026-03-08
 
 ### 🚀 Features
